@@ -8,6 +8,6 @@ Sou um recente cientista da computação e busco conhecimento da area de desenvo
 - 🌱 No momento faço bastante front-end com html e css, porem programo em python e estou aprendendo recentemente JAVA, tudo apenas experiencia universitaria. Já programei em C++ tambem.
 - 🤝 Estou procurando colaborar em projetos de desenvolvimento e aprendizado profundo.
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Nexterzin)
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bruno-vinicius-03179219b/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/bru_vinii/)
