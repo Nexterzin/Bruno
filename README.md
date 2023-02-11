@@ -1,9 +1,10 @@
 # Bruno
 
 ### Olá 👋
-Sou um recente cientista da computação e busco conhecimento da area de desenvolvimento, atualmente fico interessado tambem na area de mobile (desenvolvimento com aplicativo), recentemente desenvolvi um com o APP Inventor, um dos meus objetivos é aprender DART e programar em flutter para fazer os aplivcativos.
-- 🔭 Atualmente trabalho em uma industria de lanterna na parte do escritório, porem fora da area da tecnologia.
-- 🌱 No momento faço bastante front-end com html e css, porem programo em python e estou aprendendo recentemente JAVA, tudo apenas experiencia universitaria. Já programei em C++ tambem.
+Sou um recente cientista da computação e busco conhecimento da área de desenvolvimento.
+- 🔭 Atualmente trabalho em uma indústria de lanterna na parte do escritório, porem fora da área da tecnologia por enquanto.
+- 🌱 No momento faço bastante front-end com HTML e CSS e já programei em C++, porem recentemente eu programo em python e estou aprendendo JAVA, tudo apenas experiência universitária. 
+Fico bastante interessado também na área de mobile (desenvolvimento com aplicativo), recentemente desenvolvi um aplicativo com o APP Inventor, um dos meus objetivos é aprender DART e programar em flutter para fazer os aplicativos.
 - 🤝 Estou procurando colaborar em projetos de desenvolvimento e aprendizado profundo.
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Nexterzin)
