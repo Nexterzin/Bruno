@@ -1,6 +1,4 @@
 # Bruno
-README
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 
 ### Olá 👋
 Sou um recente cientista da computação e busco conhecimento da area de desenvolvimento, atualmente fico interessado tambem na area de mobile (desenvolvimento com aplicativo), recentemente desenvolvi um com o APP Inventor, um dos meus objetivos é aprender DART e programar em flutter para fazer os aplivcativos.
