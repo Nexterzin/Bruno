@@ -3,7 +3,7 @@ README
 <img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 
 ### Olá 👋
-Sou um recente cientista da computação e busco conhecimento da area de desenvolvimento, atualmente  Fico interessado tambem na area de mobile, desenvolvimento com aplicativo, recentemente desenvolvi um com o APP Inventor, um dos meus objetivos é aprender DART e programar em flutter para fazer os aplivcativos.
+Sou um recente cientista da computação e busco conhecimento da area de desenvolvimento, atualmente fico interessado tambem na area de mobile (desenvolvimento com aplicativo), recentemente desenvolvi um com o APP Inventor, um dos meus objetivos é aprender DART e programar em flutter para fazer os aplivcativos.
 - 🔭 Atualmente trabalho em uma industria de lanterna na parte do escritório, porem fora da area da tecnologia.
 - 🌱 No momento faço bastante front-end com html e css, porem programo em python e estou aprendendo recentemente JAVA, tudo apenas experiencia universitaria. Já programei em C++ tambem.
 - 🤝 Estou procurando colaborar em projetos de desenvolvimento e aprendizado profundo.
