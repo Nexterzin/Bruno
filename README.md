@@ -2,12 +2,12 @@
 README
 <img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 
-### Hi 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+### Olá 👋
+Sou um recente cientista da computação e busco conhecimento da area de desenvolvimento, atualmente  Fico interessado tambem na area de mobile, desenvolvimento com aplicativo, recentemente desenvolvi um com o APP Inventor, um dos meus objetivos é aprender DART e programar em flutter para fazer os aplivcativos.
+- 🔭 Atualmente trabalho em uma industria de lanterna na parte do escritório, porem fora da area da tecnologia.
+- 🌱 No momento faço bastante front-end com html e css, porem programo em python e estou aprendendo recentemente JAVA, tudo apenas experiencia universitaria. Já programei em C++ tambem.
+- 🤝 Estou procurando colaborar em projetos de desenvolvimento e aprendizado profundo.
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/USERNAME) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/USERNAME)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/USERNAME/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/USERNAME)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bruno-vinicius-03179219b/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/bru_vinii/)
