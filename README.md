@@ -12,3 +12,9 @@ Fico bastante interessado também na área de mobile (desenvolvimento com aplica
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nexterzin&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Nexterzin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Nexterzin)
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bruno-vinicius-03179219b/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/bru_vinii/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nexterzin&layout=compact)](https://github.com/Nexterzin/github-readme-stats)
