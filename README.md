@@ -7,11 +7,7 @@ Sou um recente cientista da computação e busco conhecimento da área de desenv
 Fico bastante interessado também na área de mobile (desenvolvimento com aplicativo), recentemente desenvolvi um aplicativo com o APP Inventor, um dos meus objetivos é aprender DART e programar em flutter para fazer os aplicativos.
 - 🤝 Estou procurando colaborar em projetos de desenvolvimento e aprendizado profundo.
 
-<div>
-<a href="https://github.com/Nexterzin">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nexterzin&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Nexterzin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+  <hr> </hr>
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Nexterzin)
 
