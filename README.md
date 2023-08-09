@@ -16,23 +16,3 @@ Fico bastante interessado também na área de mobile (desenvolvimento com aplica
 <hr> </hr>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bruno-vinicius-03179219b/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/bru_vinii/)
-
-import requests
-
-username = "Nexterzin"
-url = f"https://api.github.com/users/Nexterzin/repos"
-
-response = requests.get(url)
-repos = response.json()
-
-languages_used = set()
-
-for repo in repos:
-    languages_url = repo["languages_url"]
-    languages_response = requests.get(languages_url)
-    languages_data = languages_response.json()
-    languages_used.update(languages_data.keys())
-
-print("Linguagens usadas:")
-for language in languages_used:
-    print(language)
