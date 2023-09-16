@@ -11,7 +11,8 @@ Fico bastante interessado também na área de mobile (desenvolvimento com aplica
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Nexterzin)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nexterzin&layout=compact)](https://github.com/Nexterzin/github-readme-stats)
+
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Nexterzin&layout=compact&theme=dracula)
 
 <hr> </hr>
 
