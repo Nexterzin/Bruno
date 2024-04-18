@@ -13,10 +13,7 @@ Fico bastante interessado também na área de mobile (desenvolvimento com aplica
 
 <hr> </hr>
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Nexterzin)
-
-
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Nexterzin)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Nexterzin) ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Nexterzin) 
 
 <hr> </hr>
 
