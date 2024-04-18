@@ -9,6 +9,10 @@ Fico bastante interessado também na área de mobile (desenvolvimento com aplica
 
 <hr> </hr>
 
+![snake gif](https://github.com/Nexterzin/Bruno/blob/output/github-contribution-grid-snake-dark.svg)
+
+<hr> </hr>
+
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Nexterzin)
 
 
@@ -17,5 +21,3 @@ Fico bastante interessado também na área de mobile (desenvolvimento com aplica
 <hr> </hr>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bruno-vinicius-03179219b/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/bru_vinii/)
-
-![snake gif](https://github.com/Nexterzin/Bruno/blob/output/github-contribution-grid-snake-dark.svg)
