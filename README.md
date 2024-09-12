@@ -1,7 +1,5 @@
 # Bruno
 
-<hr> </hr>
-
 ### Olá me chamo Bruno👋
 Sou um recente cientista da computação e busco conhecimento da área de desenvolvimento.
 - 🔭 Atualmente trabalho em uma empresa cujo ramo é reles eletrônicos, buzzer e sirenes, trabalho no escritório no setor financeiro, porem fora da área da tecnologia no momento.
