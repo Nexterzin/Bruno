@@ -9,10 +9,6 @@ Fico bastante interessado também na área de mobile (desenvolvimento com aplica
 
 <hr> </hr>
 
-![snake gif](https://github.com/Nexterzin/Bruno/blob/output/github-contribution-grid-snake-dark.svg)
-
-<hr> </hr>
-
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Nexterzin) ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Nexterzin) 
 
 <hr> </hr>
